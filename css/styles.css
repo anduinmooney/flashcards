@@ -1,0 +1,14 @@
+.well {
+  min-width: 250px;
+  min-height: 375px;
+  max-width: 250px;
+  max-height: 375px;
+}
+
+.jumbotron h1 {
+  text-align: center;
+}
+
+p {
+  display: none;
+}
