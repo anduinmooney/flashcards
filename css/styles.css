@@ -3,6 +3,9 @@
   min-height: 375px;
   max-width: 250px;
   max-height: 375px;
+  background-color: teal;
+  border: black;
+
 }
 
 .jumbotron h1 {
@@ -11,4 +14,13 @@
 
 p {
   display: none;
+  font-size: 16px;
+}
+
+body {
+  background-color: lightgray;
+}
+
+.jumbotron {
+  background-color: teal;
 }
